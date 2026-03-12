@@ -1,0 +1,20 @@
+<student>
+    <name>sujithshinoy</name>
+    <age>37</age>
+    <DOB>02-05-1989</DOB>
+    <Email>sujithshinoy@gmail.com</Email>
+</student> 
+<Address>
+    <parementAdress>
+        <street>123 Main St</street>
+        <city>Springfield</city>
+        <state>IL</state>
+        <zip>62701</zip>
+    </parementAdress> 
+    <TemporaryAdress>
+        <street>456 Elm St</street>
+        <city>Springfield</city>
+        <state>IL</state>
+        <zip>62702</zip>
+    </TemporaryAdress>
+</Adress>

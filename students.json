@@ -1,0 +1,39 @@
+{
+    "studentslist":
+    [
+   {
+
+        "FirstName":"sujith",
+        "DOB":"09-2-1989",
+        "AGE":"37",
+        "Email": "sujithshinoy@gmail.com",
+
+        "Address" :
+        [
+                   
+            {
+               
+            "type": "PermanentAdress",
+            "street": "muthyalaplem",
+            "fltano":"sueneetha apartment A2",
+            "dirstrict":"Nellore",
+            "zipcode":"524003"
+            },
+                    
+            {
+            "type": "TemporaryAdress",
+            "street": "ejipura",
+            "fltano":"samvilla apartment A2",
+            "dirstrict":"bengulur",
+            "zipcode":"560047"
+                
+            }    
+                   
+        ]
+
+        
+    }
+
+    ]
+}    
+ 

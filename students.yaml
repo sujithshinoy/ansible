@@ -1,0 +1,27 @@
+- Name: "sujithkumar",
+  DOB:"1995-08-15,
+  mobile: 9876543210,
+  address:
+  - "street": "123 Main St",
+    "city": "Anytown",
+    "state": "Anystate",
+    "zip": "12345"
+
+  - "street": "456 Elm St",
+    "city": "Othertown",
+    "state": "Otherstate",
+    "zip": "67890"
+
+- Name: "sujithkumar",
+  DOB:"1995-08-15,
+  mobile: 9876543210,
+  address:
+  - "street": "123 Main St",
+    "city": "Anytown",
+    "state": "Anystate",
+    "zip": "12345"
+    
+  - "street": "456 Elm St",
+    "city": "Othertown",
+    "state": "Otherstate",
+    "zip": "67890"
