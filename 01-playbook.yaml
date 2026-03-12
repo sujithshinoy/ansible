@@ -1,4 +1,4 @@
-- name : pinnd the server 
+- name : ping the server 
   hosts: web
   tasks:
     - name: ping the server
